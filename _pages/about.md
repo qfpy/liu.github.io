@@ -74,7 +74,7 @@ My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (D
 - [2] **Ajian Liu**, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zichang Tan, Qi Yuan, Kai Wang, Chi Lin, Guodong Guo, Isabelle Guyon, Stan Z Li. "**Multi-modal face anti-spoofing attack detection challenge at cvpr2019**”. IEEE/CVF conference on computer vision and pattern recognition workshops (CVPRW), 2019.
 - [1] Shifeng Zhang, Xiaobo Wang, **Ajian Liu**, Chenxu Zhao, Jun Wan, Sergio Escalera, Hailin Shi, Zezheng Wang, Stan Z Li. "**CASIA-SURF-A Dataset and Benchmark for Large-scale Multi-modal Face Anti-spoofing**”. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
 
-# 🆚 Datasets (Co-first author) and Challenges (Co-Chair). [Web](https://sites.google.com/view/face-anti-spoofing-challenge/winners-results/challengecvpr2024?authuser=0)
+# 🆚 Datasets (Co-first author) and [Challenges (Co-Chair).](https://sites.google.com/view/face-anti-spoofing-challenge/winners-results/challengecvpr2024?authuser=0)
 - **CVPR2024**, **UniAttackData**, Unified Physical-Digital Attack Detection, **205/23**.
 - **CVPR2023**, **CASIA-SuHiFiMask**, Surveillance Face Presentation Attack Detection, **403/19**.
 - **ICCV2021**, **CASIA-HiFiMask**, 3D High-Fidelity Mask Face Presentation Attack Detection, **195/18**.
