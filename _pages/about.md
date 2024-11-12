@@ -86,12 +86,13 @@ My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (D
 - 博士后科学基金第74批面上资助, 2023-12 至 2025-12, 8万元, 主持.
 - 国家重点研发计划, 人像鉴定及活体检测系统攻击检测与防御技术研究, 2021-12 至 2024-11, 130万元, 在研, 参与.
 
-% # 📖 Educations
-% - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-% - *2015.09 - 2018.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+{% # 📖 Educations}
+(% - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.}
+{% - *2015.09 - 2018.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.}
 
-% # 💬 Invited Talks 
-% - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+{% # 💬 Invited Talks}
+{% - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)}
 
 # 💻 Internships
 - *2021.07 - 2022.04*, IDL, Baidu Research, China.
+- *2017.07 - 2020.12*, CBSR, NLPR CASIA, China.
