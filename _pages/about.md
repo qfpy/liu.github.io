@@ -80,6 +80,7 @@ My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (D
 - **ICCV2021**, **CASIA-HiFiMask**, 3D High-Fidelity Mask Face Presentation Attack Detection, **195/18**.
 - **CVPR2020**, **CASIA-CeFA**, Cross-ethnicity Face Anti-spoofing, **340/19**.
 - **CVPR2019**, **CASIA-SURF**, Multi-modal Face Anti-spoofing Attack Detection Challenge, **503/4**.
+**Keynote Speakers: Stan Z. Li, Abdenour Hadid, Xiaoming Liu, Guodong Guo, Sébastien Marcela, Guoying Zhao, Ajay Kumar, Alex Kot, Shiguang Shan, Lizhuang Ma, Karthik Nandakumar, Xiang Xu.** 
 
 # 🎖 Honors and Awards
 - Macao Young Scholars Program (澳门青年学者计划), 2024.
