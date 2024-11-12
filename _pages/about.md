@@ -23,8 +23,17 @@ I was a Postdoctoral Researcher at CBSR Lab, MAIS CASIA, working with Researcher
 My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (DFD). I have published 10+ papers <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2liuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international CV conferences such as CVPR, AAAI, IJCAI, ACM MM.
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: 🎉🎉 Four papers are accepted by ACM MM 2024. One paper was rated as Oral.
+- *2024.09*: 🎉🎉 Elected among [Macao Young Scholars Program (澳门青年学者计划)](https://mp.weixin.qq.com/s/XceQ__2zRzMcSPTTC3L6MA), 共30人.
+- *2024.08*: 🎉🎉 Two paper are accepted by IJCB 2024.
+- *2024.08*: 🎉🎉 A project on UniAttackDetection is granted by Young Scientists Fund of the Natural Science Foundation of China.
+- *2024.07*: 🎉🎉 Invited keynote talk for Visual Intelligence (期刊投稿数据集论文的经验).
+- *2024.05*: 🎉🎉 One paper for Generalizable Face Anti-spoofing is accepted by IJCV 2024.
+- *2024.04*: 🎉🎉 One paper is accepted by ICASSP 2024.
+- *2024.03*: 🎉🎉 One paper for Incremental Learning is accepted by AAAI 2024.
+- *2024.02*: 🎉🎉 One paper for Generalizable Face Anti-spoofing is accepted by CVPR 2024 as Highlight!
+- *2024.02*: 🎉🎉 Elected among [2024-2026年度北京市青年人才托举工程](https://www.bast.net.cn/art/2024/2/8/art_31266_19153.html).
+- *2024.01*: 🎉🎉 One paper for Unified Physical-Digital is accepted by IJCAI 2024.
 
 # 📝 Publications (# equal contribution, * corresponding author)
 # 📕 Book Chapter:
@@ -83,16 +92,24 @@ My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (D
 
 # 🏭 Projects and Funds
 - 澳门青年学者计划, 2025-03 至 2027-03, 72万元, 主持.
+- 国家基金委青年科学基金项目, 2025-01 至 2027-12, 30万元, 主持.
 - 博士后科学基金第74批面上资助, 2023-12 至 2025-12, 8万元, 主持.
 - 国家重点研发计划, 人像鉴定及活体检测系统攻击检测与防御技术研究, 2021-12 至 2024-11, 130万元, 在研, 参与.
 
-{% # 📖 Educations}
-(% - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.}
-{% - *2015.09 - 2018.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.}
+# 🕵️ Membership
+- 中国图象图形学会数字媒体取证与安全专委会委员
+- IEEE Senior Member
 
-{% # 💬 Invited Talks}
-{% - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)}
+# 💬 Invited Talks
+- *2024.07.21*, 期刊投稿数据集论文的经验，Visual Intelligence 期刊发展研讨会.
 
+# 🧑‍💻 Guest Editors
+- Special Issue "**Trustworthy Multimodal Biometrics Authentication**", IET Biometrics (IF=1.8), 2024.
+
+# 📝 Journal/Conference Reviewer
+- IET Biometrics, TMM, TIFS, IJCV
+- PRCV, CCBR, FG, IJCB, ICME, IJCAI, ECCV, ACM MM, AAAI, NeurIPS, CVPR
+- 
 # 💻 Internships
 - *2021.07 - 2022.04*, IDL, Baidu Research, China.
 - *2017.07 - 2020.12*, CBSR, NLPR CASIA, China.
