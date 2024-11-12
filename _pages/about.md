@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am currently an Assistant Researcher in the State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA).
 
-I was a Postdoctoral Researcher at CBSR Lab, MAIS CASIA, working with Researcher <a href='https://scholar.google.com/citations?user=cuJ3QG8AAAAJ&hl=zh-CN'>Zhen Lei</a>.
+I was a Postdoctoral Researcher at CBSR Lab, MAIS CASIA, working with Researcher <a href='https://scholar.google.com/citations?user=cuJ3QG8AAAAJ&hl=zh-CN'>Zhen Lei (雷震)</a>.
 
-I graduated from Macau University of Science and Technology (MUST) (澳门科技大学) with a PhD's degree from the Faculty of Innovation Engineering (创新工程学院), School of Computer Science and Engineering (计算机科学与工程学院), supervised by [Stan Z. Li (李子青)](https://fie.must.edu.mo/id-1444/person/view/id-552.html), Google Scholar<a href='https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN'>Stan Z. Li</a>.
+I graduated from Macau University of Science and Technology (MUST) (澳门科技大学) with a PhD's degree from the Faculty of Innovation Engineering (创新工程学院), School of Computer Science and Engineering (计算机科学与工程学院), supervised by [Stan Z. Li (李子青)](https://fie.must.edu.mo/id-1444/person/view/id-552.html), Google Scholar: <a href='https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN'>Stan Z. Li</a>.
 
 I have published 30+ papers <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ&hl'></a> at the top international CV conferences such as CVPR, AAAI, IJCAI, ACM MM.
 
