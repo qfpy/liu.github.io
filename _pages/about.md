@@ -34,7 +34,7 @@ My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (D
 - [1] Jun Wan, Zichang Tan, **Ajian Liu**.“**Facial Attribute Analysis**”.Handbook of Face Recognition,2023
 
 # 📋 Journals:
-- [14] **Ajian Liu**. ``**CA-MoEiT: Generalizable Face Anti-spoofing via Dual Cross-Attention and Semi-fixed Mixture-of-Expert**". International Journal of Computer Vision (IJCV), 2024.
+- [14] **Ajian Liu**. "**CA-MoEiT: Generalizable Face Anti-spoofing via Dual Cross-Attention and Semi-fixed Mixture-of-Expert**". International Journal of Computer Vision (IJCV), 2024.
 - [11] Hao Fang#, **Ajian Liu#**, Jun Wan, Sergio Escalera, Chenxu Zhao, Xu Zhang, Stan Z Li, Zhen Lei. ``**Surveillance face anti-spoofing**”. IEEE Transactions on Information Forensics and Security (TIFS), 2023.
 - [10] **Ajian Liu#**, Zichang Tan#, Zitong Yu, Chenxu Zhao, Jun Wan, Yanyan Liang, Zhen Lei, Du Zhang, Stan Z Li, Guodong Guo. ``**FM-ViT: Flexible Modal Vision Transformers for Face Anti-Spoofing**". IEEE Transactions on Information Forensics and Security (TIFS), 2023.
 
