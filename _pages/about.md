@@ -110,7 +110,7 @@ My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (D
 # 📝 Journal/Conference Reviewer
 - IET Biometrics, TMM, TIFS, IJCV
 - PRCV, CCBR, FG, IJCB, ICME, IJCAI, ECCV, ACM MM, AAAI, NeurIPS, CVPR
-- 
+  
 # 🌟 Internships
 - *2021.07 - 2022.04*, IDL, Baidu Research, China.
 - *2017.07 - 2020.12*, CBSR, NLPR CASIA, China.
