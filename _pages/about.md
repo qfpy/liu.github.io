@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- 
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -29,39 +29,60 @@ My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (D
 # 📝 Publications (# equal contribution, * corresponding author)
 
 # 📕 Book Chapter:
-- [3] Xun Lin, Yi Yu, Zitong Yu, Ruohan Meng, Jiale Zhou, **Ajian Liu**, Yizhong Liu, Shuai Wang, Wenzhong Tang, Zhen Lei, Alex Ko.“**HideMIA: Hidden Wavelet Mining for Privacy-Enhancing Medical Image Analysis**”.Proceedings of the 32nd ACM International Conference on Multimedia,2024
+
 - [2] **Ajian Liu**, Hui Ma, Junze Zheng, Haocheng Yuan, Xiaoyuan Yu, Yanyan Liang, Sergio Escalera, Jun Wan, Zhen Lei.“**FM-CLIP: Flexible Modal CLIP for Face Anti-Spoofing**”.Proceedings of the 32nd ACM International Conference on Multimedia,2024
 - [1] Jun Wan, Zichang Tan, **Ajian Liu**.“**Facial Attribute Analysis**”.Handbook of Face Recognition,2023
 
 # 📋 Journals:
-- [14] **Ajian Liu**.“**CA-MoEiT: Generalizable Face Anti-spoofing via Dual Cross-Attention and Semi-fixed Mixture-of-Expert**”.International Journal of Computer Vision (IJCV),2024
-- [13] **Ajian Liu**, Shuai Xue, Jianwen Gan, Jun Wan, Yanyan Liang, Jiankang Deng, Sergio Escalera, Zhen Lei.“**CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing**”.IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),2024
-- [12] Hao Fang*, **Ajian Liu#** , Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong Liu, Jiankang Deng, Sergio Escalera, Xiaoming Liu, Jun Wan, Zhen Lei.“**Unified Physical-Digital Face Attack Detection**”.International Joint Conference on Artificial Intelligence (IJCAI-2024),2024
-- [11] Hao Fang*, **Ajian Liu#**, Jun Wan, Sergio Escalera, Chenxu Zhao, Xu Zhang, Stan Z Li, Zhen Lei.“**Surveillance face anti-spoofing**”.IEEE Transactions on Information Forensics and Security (TIFS),2023
-- [10] **Ajian Liu**, Zichang Tan, Zitong Yu, Chenxu Zhao, Jun Wan, Yanyan Liang, Zhen Lei, Du Zhang, Stan Z Li, Guodong Guo."**FM-ViT: Flexible Modal Vision Transformers for Face Anti-Spoofing**".IEEE Transactions on Information Forensics and Security (TIFS),2023
-- [9] Zichang Tan, **Ajian Liu**, Jun Wan, Zhen Lei, Guodong Guo."**Exploring the limits of hard example mining for id document to selfie matching**".IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM),2022
-- [8] **Ajian Liu**, Chenxu Zhao, Zitong Yu, Jun Wan, Anyang Su, Xing Liu, Zichang Tan, Sergio Escalera, Junliang Xing, Yanyan Liang, Guodong Guo, Zhen Lei, Stan Z Li, Du Zhang.“**Contrastive context-aware learning for 3d high-fidelity mask face presentation attack detection**”.IEEE Transactions on Information Forensics and Security (TIFS),2022
+- [14] **Ajian Liu**. ``**CA-MoEiT: Generalizable Face Anti-spoofing via Dual Cross-Attention and Semi-fixed Mixture-of-Expert**". International Journal of Computer Vision (IJCV), 2024.
+- [11] Hao Fang#, **Ajian Liu#**, Jun Wan, Sergio Escalera, Chenxu Zhao, Xu Zhang, Stan Z Li, Zhen Lei. ``**Surveillance face anti-spoofing**”. IEEE Transactions on Information Forensics and Security (TIFS), 2023.
+- [10] **Ajian Liu#**, Zichang Tan#, Zitong Yu, Chenxu Zhao, Jun Wan, Yanyan Liang, Zhen Lei, Du Zhang, Stan Z Li, Guodong Guo. ``**FM-ViT: Flexible Modal Vision Transformers for Face Anti-Spoofing**". IEEE Transactions on Information Forensics and Security (TIFS), 2023.
+
+- [9] Zichang Tan, **Ajian Liu**, Jun Wan, Zhen Lei, Guodong Guo. ``**Exploring the limits of hard example mining for id document to selfie matching**". IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2022.
+
+- [8] **Ajian Liu#**, Chenxu Zhao#, Zitong Yu#, Jun Wan, Anyang Su, Xing Liu, Zichang Tan, Sergio Escalera, Junliang Xing, Yanyan Liang, Guodong Guo, Zhen Lei, Stan Z Li, Du Zhang. ``**Contrastive context-aware learning for 3d high-fidelity mask face presentation attack detection**”. IEEE Transactions on Information Forensics and Security (TIFS), 2022.
+
+- [6] Zichang Tan, **Ajian Liu**, Jun Wan, Hao Liu, Zhen Lei, Guodong Guo, Stan Z Li. ``**Cross-batch hard example mining with pseudo large batch for id vs. spot face recognition**”. IEEE Transactions on Image Processing (TIP), 2022.
+- [4] **Ajian Liu#**, Zichang Tan#, Jun Wan, Yanyan Liang, Zhen Lei, Guodong Guo, Stan Z Li. ``**Face anti-spoofing via adversarial cross-modality translation**”. IEEE Transactions on Information Forensics and Security (TIFS), 2021.
+- [3] **Ajian Liu**, Xuan Li, Jun Wan, Yanyan Liang, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z Li. ``**Cross‐ethnicity face anti‐spoofing recognition challenge: A review**”. IET Biometrics, 2021.
+- [2] Shifeng Zhang#, **Ajian Liu#**, Jun Wan, Yanyan Liang, Guodong Guo, Sergio Escalera, Hugo Jair Escalante, Stan Z Li. ``**Casia-surf: A large-scale multi-modal benchmark for face anti-spoofing**”. IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2020.
+- [1] Fengmei Liang, Yajun Xu, Weixin Li, Xiaoling Ning, Xueou Liu, **Ajian Liu**. ``**Recognition algorithm based on improved FCM and rough sets for meibomian gland morphology**”. Applied Sciences, 2017.
+- 
+- 
+
 - [7] **Ajian Liu**, Yanyan Liang.“**Ma-vit: Modality-agnostic vision transformers for face anti-spoofing**”.International Joint Conference on Artificial Intelligence (IJCAI),2022
-- [6] Zichang Tan, **Ajian Liu**, Jun Wan, Hao Liu, Zhen Lei, Guodong Guo, Stan Z Li.“**Cross-batch hard example mining with pseudo large batch for id vs. spot face recognition**”.IEEE Transactions on Image Processing (TIP),2022
-- [5] **Ajian Liu**, Chenxu Zhao, Zitong Yu, Jun Wan.“**Anyang Su, Xing Liu, Zichang Tan, Sergio Escalera, Junliang Xing, Yanyan Liang, et al. Contrastive context-aware learning for 3d high-fidelity mask face presentation attack detection**”.IEEE Transactions on Information Forensics and Security (TIFS),2022
-- [4] **Ajian Liu**, Zichang Tan, Jun Wan, Yanyan Liang, Zhen Lei, Guodong Guo, Stan Z Li.“**Face anti-spoofing via adversarial cross-modality translation**”.IEEE Transactions on Information Forensics and Security (TIFS),2021
-- [3] **Ajian Liu**, Xuan Li, Jun Wan, Yanyan Liang, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z Li.“**Cross‐ethnicity face anti‐spoofing recognition challenge: A review**”.IET Biometrics,2021
-- [2] Shifeng Zhang*, **Ajian Liu#**, Jun Wan, Yanyan Liang, Guodong Guo, Sergio Escalera, Hugo Jair Escalante, Stan Z Li.“**Casia-surf: A large-scale multi-modal benchmark for face anti-spoofing**”.IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM),2020
-- [1] Fengmei Liang, Yajun Xu, Weixin Li, Xiaoling Ning, Xueou Liu, **Ajian Liu**.“**Recognition algorithm based on improved FCM and rough sets for meibomian gland morphology**”.Applied Sciences,2017
 
 # 💻 Conferences
-- [14] **Ajian Liu**, Hui Ma, Junze Zheng, Haocheng Yuan, Xiaoyuan Yu, Yanyan Liang, Sergio Escalera, Jun Wan, Zhen Lei.“**FM-CLIP: Flexible Modal CLIP for Face Anti-Spoofing**”.Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM),2024
-- [13] Hao Fang, **Ajian Liu**, Ning Jiang, Quan Lu, Guoqing Zhao, Jun Wan.“**VL-FAS: Domain Generalization via Vision-Language Model For Face Anti-Spoofing**”.ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),2024
-- [12] Keyao Wang, Guosheng Zhang, Haixiao Yue, **Ajian Liu#**, Gang Zhang, Haocheng Feng, Junyu Han, Errui Ding, Jingdong Wang.“**Multi-Domain Incremental Learning for Face Presentation Attack Detection**”.Proceedings of the AAAI Conference on Artificial Intelligence (AAAI),2024
-- [11] Xianhua He, Dashuang Liang, Song Yang, Zhanlong Hao, Hui Ma, Binjie Mao, Xi Li, Yao Wang, Pengfei Yan, **Ajian Liu**.“**Joint Physical-Digital Facial Attack Detection Via Simulating Spoofing Clues**”.Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),2024
-- [10] Hao Fang, **Ajian Liu**, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zhen Lei.“**Surveillance Face Presentation Attack Detection Challenge**”.IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPR),2023
-- [9] **Ajian Liu**, Zichang Tan, Yanyan Liang, Jun Wan.“**Attack-Agnostic Deep Face Anti-Spoofing**”.IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPR),2023
-- [8] Zitong Yu, **Ajian Liu**, Chenxu Zhao, Kevin HM Cheng, Xu Cheng, Guoying Zhao.“**Flexible-modal face anti-spoofing: A benchmark**”.IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPR),2023
-- [7] Dong Wang, Jia Guo, Qiqi Shao, Haochi He, Zhian Chen, Chuanbao Xiao, **Ajian Liu**, Sergio Escalera, Hugo Jair Escalante, Zhen Lei, Jun Wan, Jiankang Deng.“**Wild face anti-spoofing challenge 2023: Benchmark and results**”.IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPR),2023
-- [6] **Ajian Liu**, Jun Wan, Ning Jiang, Hongbin Wang, Yanyan Liang.“**Disentangling facial pose and appearance information for face anti-spoofing**”.2022 26th international conference on pattern recognition (ICPR),2022
-- [5] **Ajian Liu**, Chenxu Zhao, Zitong Yu, Anyang Su, Xing Liu, Zijian Kong, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zhen Lei, Guodong Guo.“**3d high-fidelity mask face presentation attack detection challenge**”.IEEE/CVF International Conference on Computer Vision Workshops,2021
-- [4] **Ajian Liu**, Zichang Tan, Jun Wan, Sergio Escalera, Guodong Guo, Stan Z Li.“**Casia-surf cefa: A benchmark for multi-modal cross-ethnicity face anti-spoofing**”.IEEE/CVF Winter Conference on Applications of Computer Vision (WACV),2021
-- [3] Xuan Li, Jun Wan, Yi Jin, **Ajian Liu**, Guodong Guo, Stan Z Li.“**3DPC-Net: 3D point cloud network for face anti-spoofing**”.2020 IEEE International Joint Conference on Biometrics (IJCB),2020
+- [14] **Ajian Liu#**, Hui Ma#, Junze Zheng, Haocheng Yuan, Xiaoyuan Yu, Yanyan Liang, Sergio Escalera, Jun Wan, Zhen Lei. ``**FM-CLIP: Flexible Modal CLIP for Face Anti-Spoofing**”. Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM), 2024.
+- [3] Xun Lin, Yi Yu, Zitong Yu, Ruohan Meng, Jiale Zhou, **Ajian Liu**, Yizhong Liu, Shuai Wang, Wenzhong Tang, Zhen Lei, Alex Ko. ``**HideMIA: Hidden Wavelet Mining for Privacy-Enhancing Medical Image Analysis**”. Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM), 2024.
+- [13] **Ajian Liu**, Shuai Xue, Jianwen Gan, Jun Wan, Yanyan Liang, Jiankang Deng, Sergio Escalera, Zhen Lei. ``**CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing**”. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+- [12] Hao Fang#, **Ajian Liu#**, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong Liu, Jiankang Deng, Sergio Escalera, Xiaoming Liu, Jun Wan, Zhen Lei. ``**Unified Physical-Digital Face Attack Detection**”. International Joint Conference on Artificial Intelligence (IJCAI), 2024.
+- [13] Hao Fang, **Ajian Liu**, Ning Jiang, Quan Lu, Guoqing Zhao, Jun Wan. ``**VL-FAS: Domain Generalization via Vision-Language Model For Face Anti-Spoofing**”. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
+
+
+- [12] Keyao Wang, Guosheng Zhang, Haixiao Yue, **Ajian Liu***, Gang Zhang, Haocheng Feng, Junyu Han, Errui Ding, Jingdong Wang. ``**Multi-Domain Incremental Learning for Face Presentation Attack Detection**”. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.
+
+- [11] Xianhua He, Dashuang Liang, Song Yang, Zhanlong Hao, Hui Ma, Binjie Mao, Xi Li, Yao Wang, Pengfei Yan, **Ajian Liu***. ``**Joint Physical-Digital Facial Attack Detection Via Simulating Spoofing Clues**”. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2024.
+
+- [10] Hao Fang, **Ajian Liu**, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zhen Lei. ``**Surveillance Face Presentation Attack Detection Challenge**”. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023.
+
+- [9] **Ajian Liu**, Zichang Tan, Yanyan Liang, Jun Wan. ``**Attack-Agnostic Deep Face Anti-Spoofing**”. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023.
+
+- [8] Zitong Yu, **Ajian Liu**, Chenxu Zhao, Kevin HM Cheng, Xu Cheng, Guoying Zhao. ``**Flexible-modal face anti-spoofing: A benchmark**”. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023.
+
+- [7] Dong Wang, Jia Guo, Qiqi Shao, Haochi He, Zhian Chen, Chuanbao Xiao, **Ajian Liu**, Sergio Escalera, Hugo Jair Escalante, Zhen Lei, Jun Wan, Jiankang Deng. ``**Wild face anti-spoofing challenge 2023: Benchmark and results**”. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023.
+
+- [6] **Ajian Liu**, Jun Wan, Ning Jiang, Hongbin Wang, Yanyan Liang. ``**Disentangling facial pose and appearance information for face anti-spoofing**”. 26th international conference on pattern recognition (ICPR), 2022.
+
+- [5] **Ajian Liu**, Chenxu Zhao, Zitong Yu, Anyang Su, Xing Liu, Zijian Kong, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zhen Lei, Guodong Guo. ``**3d high-fidelity mask face presentation attack detection challenge**”. IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2021.
+
+- 
+- [4] **Ajian Liu#**, Zichang Tan#, Jun Wan, Sergio Escalera, Guodong Guo, Stan Z Li. ``**Casia-surf cefa: A benchmark for multi-modal cross-ethnicity face anti-spoofing**”. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2021.
+
+- 
+- [3] Xuan Li, Jun Wan, Yi Jin, **Ajian Liu**, Guodong Guo, Stan Z Li. ``**3DPC-Net: 3D point cloud network for face anti-spoofing**”. 2020 IEEE International Joint Conference on Biometrics (IJCB),2020
+
+
 - [2] **Ajian Liu**, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zichang Tan, Qi Yuan, Kai Wang, Chi Lin, Guodong Guo, Isabelle Guyon, Stan Z Li.“**Multi-modal face anti-spoofing attack detection challenge at cvpr2019**”.IEEE/CVF conference on computer vision and pattern recognition workshops (CVPR),2019
 - [1] Shifeng Zhang, Xiaobo Wang, **Ajian Liu**, Chenxu Zhao, Jun Wan, Sergio Escalera, Hailin Shi, Zezheng Wang, Stan Z Li.“**CASIA-SURF-A Dataset and Benchmark for Large-scale Multi-modal Face Anti-spoofing**”.IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),2019
 
