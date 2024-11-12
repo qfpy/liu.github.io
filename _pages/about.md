@@ -18,14 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am currently an Assistant Researcher in the State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA).
 
-I was a Postdoctoral Researcher at CBSR Lab, MAIS CASIA, working with Researcher <a href='https://scholar.google.com/citations?user=cuJ3QG8AAAAJ&hl=zh-CN'>Zhen Lei (雷震)</a>.
+I was a Postdoctoral Researcher at CBSR Lab, MAIS CASIA, working with Researcher <a href='https://scholar.google.com/citations?user=cuJ3QG8AAAAJ&hl=zh-CN'>Zhen Lei (雷震)</a>. I graduated from Macau University of Science and Technology (MUST) (澳门科技大学) with a PhD's degree from the Faculty of Innovation Engineering (创新工程学院), School of Computer Science and Engineering (计算机科学与工程学院), supervised by [Stan Z. Li (李子青)]([https://fie.must.edu.mo/id-1444/person/view/id-552.html](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN)).
 
-I graduated from Macau University of Science and Technology (MUST) (澳门科技大学) with a PhD's degree from the Faculty of Innovation Engineering (创新工程学院), School of Computer Science and Engineering (计算机科学与工程学院), supervised by [Stan Z. Li (李子青)](https://fie.must.edu.mo/id-1444/person/view/id-552.html), Google Scholar: <a href='https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN'>Stan Z. Li</a>.
-
-I have published 30+ papers <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ&hl'></a> at the top international CV conferences such as CVPR, AAAI, IJCAI, ACM MM.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (DFD). I have published 10+ papers <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ&hl'></a> at the top international CV conferences such as CVPR, AAAI, IJCAI, ACM MM.
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
