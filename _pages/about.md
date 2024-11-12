@@ -74,7 +74,7 @@ My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (D
 - [2] **Ajian Liu**, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Zichang Tan, Qi Yuan, Kai Wang, Chi Lin, Guodong Guo, Isabelle Guyon, Stan Z Li. "**Multi-modal face anti-spoofing attack detection challenge at cvpr2019**”. IEEE/CVF conference on computer vision and pattern recognition workshops (CVPRW), 2019.
 - [1] Shifeng Zhang, Xiaobo Wang, **Ajian Liu**, Chenxu Zhao, Jun Wan, Sergio Escalera, Hailin Shi, Zezheng Wang, Stan Z Li. "**CASIA-SURF-A Dataset and Benchmark for Large-scale Multi-modal Face Anti-spoofing**”. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
 
-# 🆚 Datasets (Co-first author) and Challenges (Co-Chair)
+# 🆚 Datasets (Co-first author) and Challenges (Co-Chair). [Web](https://sites.google.com/view/face-anti-spoofing-challenge/winners-results/challengecvpr2024?authuser=0)
 - **CVPR2024**, **UniAttackData**, Unified Physical-Digital Attack Detection, **205/23**.
 - **CVPR2023**, **CASIA-SuHiFiMask**, Surveillance Face Presentation Attack Detection, **403/19**.
 - **ICCV2021**, **CASIA-HiFiMask**, 3D High-Fidelity Mask Face Presentation Attack Detection, **195/18**.
@@ -90,7 +90,7 @@ My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (D
 - 2nd of Ground Sentry Unrestricted Face Recognition Challenge (地面哨兵无约束人脸识别挑战赛), 2020.
 - IEEE Transactions on Biometric Behavior and Identity Science (TBIOM), Best Paper Award (最佳论文奖), 2020.
 
-# 🏭 Projects and Funds
+# 🚀 Projects and Funds
 - 澳门青年学者计划, 2025-03 至 2027-03, 72万元, 主持.
 - 国家基金委青年科学基金项目, 2025-01 至 2027-12, 30万元, 主持.
 - 博士后科学基金第74批面上资助, 2023-12 至 2025-12, 8万元, 主持.
@@ -110,6 +110,6 @@ My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (D
 - IET Biometrics, TMM, TIFS, IJCV
 - PRCV, CCBR, FG, IJCB, ICME, IJCAI, ECCV, ACM MM, AAAI, NeurIPS, CVPR
 - 
-# 💻 Internships
+# 🌟 Internships
 - *2021.07 - 2022.04*, IDL, Baidu Research, China.
 - *2017.07 - 2020.12*, CBSR, NLPR CASIA, China.
