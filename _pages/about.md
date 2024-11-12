@@ -20,7 +20,7 @@ I am currently an Assistant Researcher in the State Key Laboratory of Multimodal
 
 I was a Postdoctoral Researcher at CBSR Lab, MAIS CASIA, working with Researcher <a href='https://scholar.google.com/citations?user=cuJ3QG8AAAAJ&hl=zh-CN'>Zhen Lei (雷震)</a>. I graduated from Macau University of Science and Technology (MUST) (澳门科技大学) with a PhD's degree from the Faculty of Innovation Engineering (创新工程学院), School of Computer Science and Engineering (计算机科学与工程学院), supervised by [Stan Z. Li (李子青)](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN).
 
-My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (DFD). I have published 10+ papers <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ&hl'></a> at the top international CV conferences such as CVPR, AAAI, IJCAI, ACM MM.
+My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (DFD). I have published 10+ papers <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international CV conferences such as CVPR, AAAI, IJCAI, ACM MM.
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
