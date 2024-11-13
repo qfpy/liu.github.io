@@ -24,9 +24,7 @@ My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (D
 
 <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a>. 
 
-<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2Fliuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json"></a>
-
-<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="url={{ url | url_encode }}"></a>
+<a href='https://scholar.google.com/citations?user=93wHW4oAAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a>. <a href='https://scholar.google.com/citations?user=93wHW4oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 
