@@ -26,6 +26,10 @@ My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (D
 
 <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2Fliuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+
+
 # 🔥 News
 - *2024.10*: 🎉🎉 Four papers are accepted by ACM MM 2024. One paper was rated as Oral.
 - *2024.09*: 🎉🎉 Elected among [Macao Young Scholars Program (澳门青年学者计划)](https://mp.weixin.qq.com/s/XceQ__2zRzMcSPTTC3L6MA), 共30人.
