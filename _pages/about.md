@@ -22,7 +22,9 @@ I was a Postdoctoral Researcher at CBSR Lab, MAIS CASIA, working with Researcher
 
 My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (DFD). I have published 10+ papers <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliuajian%2liuajian.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international CV conferences such as CVPR, AAAI, IJCAI, ACM MM.
 
-<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
+<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
+
+<a href='https://scholar.google.com/citations?user=isWtY64AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
 - *2024.10*: 🎉🎉 Four papers are accepted by ACM MM 2024. One paper was rated as Oral.
