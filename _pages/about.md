@@ -50,11 +50,25 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 
 <big>**CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:M3ejUd6NZC8C'></span></strong>
 
-***Ajian Liu***, Shuai Xue, Jianwen Gan, Jun Wan*, Yanyan Liang*, Jiankang Deng, Sergio Escalera, Zhen Lei
+***Ajian Liu***, Shuai Xue, Jianwen Gan, Jun Wan\*, Yanyan Liang\*, Jiankang Deng, Sergio Escalera, Zhen Lei
 
 [[**PDF**]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_CFPL-FAS_Class_Free_Prompt_Learning_for_Generalizable_Face_Anti-spoofing_CVPR_2024_paper.pdf)
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/CAMoEiT.jpg.png' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<big>**CA-MoEiT: Generalizable Face Anti-spoofing via Dual Cross-Attention and Semi-fixed Mixture-of-Expert**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:mVmsd5A6BfQC'></span></strong>
+
+***Ajian Liu***
+
+[[**PDF**]](https://link.springer.com/article/10.1007/s11263-024-02135-2)
+</div>
+</div>
+
+
+
 
 # 📖Journals:
 - [11] **Ajian Liu**. "**CA-MoEiT: Generalizable Face Anti-spoofing via Dual Cross-Attention and Semi-fixed Mixture-of-Expert**". International Journal of Computer Vision (IJCV), 2024.
