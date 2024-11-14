@@ -66,7 +66,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/HIFIMASK.png' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/hifimask.jpg' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <big>**Contrastive context-aware learning for 3d high-fidelity mask face presentation attack detection**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:IjCSPb-OGe4C'></span></strong>
@@ -194,5 +194,5 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 - PRCV, CCBR, FG, IJCB, ICME, IJCAI, ECCV, ACM MM, AAAI, NeurIPS, CVPR
   
 # 🕵️ Internships
-- *2021.07 - 2022.04*, <img src='images/baidu.jpg' width="30" height="30" /> IDL, Baidu Research, China.
-- *2017.07 - 2020.12*, <img src='images/casia.png' width="30" height="30" /> CBSR, NLPR CASIA, China.
+- *2021.07 - 2022.04*, IDL, Baidu Research, China <img src='images/baidu.jpg' width="40" height="40" />.
+- *2017.07 - 2020.12*, CBSR, NLPR CASIA, China <img src='images/casia.png' width="40" height="40" />.
