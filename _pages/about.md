@@ -194,5 +194,5 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 - PRCV, CCBR, FG, IJCB, ICME, IJCAI, ECCV, ACM MM, AAAI, NeurIPS, CVPR
   
 # 🕵️ Internships
-- *2021.07 - 2022.04*, <img src='images/baidu.png' width="30" height="30" /> IDL, Baidu Research, China.
+- *2021.07 - 2022.04*, <img src='images/baidu.jpg' width="30" height="30" /> IDL, Baidu Research, China.
 - *2017.07 - 2020.12*, <img src='images/casia.png' width="30" height="30" /> CBSR, NLPR CASIA, China.
