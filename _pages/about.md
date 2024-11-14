@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently an Assistant Researcher in the State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA).
+I am currently an Assistant Researcher in the State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA) <img src='images/casia.png' width="60" height="20" />.
 
-I was a Postdoctoral Researcher at CBSR Lab, MAIS CASIA, working with Prof. <a href='https://scholar.google.com/citations?user=cuJ3QG8AAAAJ&hl=zh-CN'>Zhen Lei (雷震, IEEE Fellow)</a>. I graduated from Macau University of Science and Technology (MUST) (澳门科技大学) with a PhD's degree from the Faculty of Innovation Engineering (创新工程学院), School of Computer Science and Engineering (计算机科学与工程学院), supervised by Prof. [Stan Z. Li (李子青, IEEE Fellow)](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN).
+I was a Postdoctoral Researcher at CBSR Lab, MAIS CASIA, working with Prof. <a href='https://scholar.google.com/citations?user=cuJ3QG8AAAAJ&hl=zh-CN'>Zhen Lei (雷震, IEEE Fellow)</a>. I graduated from Macau University of Science and Technology (MUST) (澳门科技大学) <img src='images/must.png' width="60" height="20" /> with a PhD's degree from the Faculty of Innovation Engineering (创新工程学院), School of Computer Science and Engineering (计算机科学与工程学院), supervised by Prof. [Stan Z. Li (李子青, IEEE Fellow)](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN).
 
 My research interest includes Face Anti-Spoofing (FAS) and DeepFake Detection (DFD). I have published 10+ papers at the top international CV conferences such as CVPR, AAAI, IJCAI, ACM MM. 
 <a href='https://scholar.google.com/citations?user=93wHW4oAAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a>. <a href='https://scholar.google.com/citations?user=93wHW4oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -42,6 +42,23 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 # 📝 Publications (# equal contribution, * corresponding author)
 # 📕 Book Chapter:
 - [1] Jun Wan, Zichang Tan, **Ajian Liu**. "**Facial Attribute Analysis**”. Handbook of Face Recognition, 2023.
+
+# 🌟 Representative Work:
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/CVPR2024.png' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<big>**Nested Collaborative Learning for Long-Tailed Visual Recognition**</big><strong><span class='show_paper_citations' data='93wHW4oAAAAJ:UebtZRa9Y70C'></span></strong>
+
+***Jun Li**\*, Zichang Tan\*, Jun Wan, Zhen Lei, Guodong Guo*
+
+
+[[**PDF**]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Nested_Collaborative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2022_paper.pdf)
+[[**Project**]](https://github.com/Bazinga699/NCL)![](https://img.shields.io/github/forks/Bazinga699/NCL?logo=github)
+![](https://img.shields.io/github/stars/Bazinga699/NCL)
+
+</div>
+</div>
 
 # 📖Journals:
 - [11] **Ajian Liu**. "**CA-MoEiT: Generalizable Face Anti-spoofing via Dual Cross-Attention and Semi-fixed Mixture-of-Expert**". International Journal of Computer Vision (IJCV), 2024.
@@ -115,6 +132,6 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 - IET Biometrics, TMM, TIFS, IJCV
 - PRCV, CCBR, FG, IJCB, ICME, IJCAI, ECCV, ACM MM, AAAI, NeurIPS, CVPR
   
-# 🌟 Internships
-- *2021.07 - 2022.04*, IDL, Baidu Research, China.
-- *2017.07 - 2020.12*, CBSR, NLPR CASIA, China.
+# 🕵️ Internships
+- *2021.07 - 2022.04*, <img src='images/baidu.png' width="60" height="20" /> IDL, Baidu Research, China.
+- *2017.07 - 2020.12*, <img src='images/casia.png' width="60" height="20" /> CBSR, NLPR CASIA, China.
