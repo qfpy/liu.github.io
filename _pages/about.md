@@ -45,18 +45,11 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 
 # 🌟 Representative Work:
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/CVPR2024.png' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 (Highlight!)</div><img src='images/CVPR2024.png' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
-
-<big>**Nested Collaborative Learning for Long-Tailed Visual Recognition**</big><strong><span class='show_paper_citations' data='93wHW4oAAAAJ:UebtZRa9Y70C'></span></strong>
-
-***Jun Li**\*, Zichang Tan\*, Jun Wan, Zhen Lei, Guodong Guo*
-
-
-[[**PDF**]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Nested_Collaborative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2022_paper.pdf)
-[[**Project**]](https://github.com/Bazinga699/NCL)![](https://img.shields.io/github/forks/Bazinga699/NCL?logo=github)
-![](https://img.shields.io/github/stars/Bazinga699/NCL)
-
+<big>**CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing**</big><strong><span class='show_paper_citations' data='93wHW4oAAAAJ:UebtZRa9Y70C'></span></strong>
+***Ajian Liu***, Shuai Xue, Jianwen Gan, Jun Wan*, Yanyan Liang*, Jiankang Deng, Sergio Escalera, Zhen Lei
+[[**PDF**]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_CFPL-FAS_Class_Free_Prompt_Learning_for_Generalizable_Face_Anti-spoofing_CVPR_2024_paper.pdf)
 </div>
 </div>
 
