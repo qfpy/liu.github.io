@@ -99,7 +99,7 @@ Email: <a href="mailto:ajian.liu@ia.ac.cn">ajian.liu@ia.ac.cn</a>, <a href="mail
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/FM-CLIP-Framework.pdf' alt="sym" width="500" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/ACMM.jpg' alt="sym" width="500" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <big>**FM-CLIP: Flexible Modal CLIP for Face Anti-Spoofing**</big><strong><span class='show_paper_citations' data='isWtY64AAAAJ:9ZlFYXVOiuMC'></span></strong>
